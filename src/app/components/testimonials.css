@@ -20,7 +20,7 @@
 	justify-items: center;
   }
   
-  .testimonial-card {
+  /* .testimonial-card {
 	background-color: white;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	border-radius: 0.5rem;
@@ -29,7 +29,7 @@
 	transition: transform 0.3s;
 	width: 100%;
 	max-width: 350px;
-  }
+  } */
   
   .testimonial-card:hover {
 	transform: scale(1.05);

@@ -13,8 +13,8 @@ const HeroSection = () => (
       />
     </div>
     <div className="hero-content">
-      <h2 className="hero-title">Men's Collection</h2>
-      <p className="hero-description">"Wear the Trend" "Fashion that Dares" "Make Heads Turn" "Dress to Impress"</p>
+      <h2 className="hero-title">Men&apos;s Collection</h2>
+      <p className="hero-description">&quot;Wear the Trend&quot; &quot;Fashion that Dares&quot; &quot;Make Heads Turn&quot; &quot;Dress to Impress&quot;</p>
       <button className="hero-button">See Menu</button>
     </div>
   </section>
